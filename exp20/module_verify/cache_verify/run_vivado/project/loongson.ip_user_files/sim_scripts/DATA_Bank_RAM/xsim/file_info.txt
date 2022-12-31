@@ -1,2 +1,0 @@
-DATA_Bank_RAM.v,verilog,xil_defaultlib,../../../../loongson.srcs/sources_1/ip/DATA_Bank_RAM/sim/DATA_Bank_RAM.v,
-glbl.v,Verilog,xil_defaultlib,glbl.v
